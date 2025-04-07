@@ -1,0 +1,27 @@
+lastupdatecheck: 0
+recentrepos:
+    - /Users/vinnieespo/dotfiles
+    - /Users/vinnieespo/Projects/ESPOSite/EspoSite
+    - /Users/vinnieespo/Projects/espoeng-sst
+    - /Users/vinnieespo/Projects/webdav
+    - /Users/vinnieespo/Projects/LerchRevitTool
+    - /Users/vinnieespo/Projects/espo-sst/espo-sst
+    - /Users/vinnieespo/RedTiger-Tools
+startuppopupversion: 5
+lastversion: 0.48.0
+customcommandshistory:
+    - q
+    - git remote add origin https://github.com/ESPO-Engineering/espo-webdav
+    - git remote -v
+    - git branch
+    - ""
+    - qa
+    - q!
+hidecommandlog: true
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+renamesimilaritythreshold: 50
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
