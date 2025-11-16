@@ -1,0 +1,20 @@
+# State files
+.config/lazygit/state.yml
+
+# Neovim
+.config/nvim/lazy-lock.json
+.config/nvim/.luarc.json
+
+# Backups
+*.backup
+*.backup.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.netrwhist
